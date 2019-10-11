@@ -1,0 +1,6 @@
+C:\Core\netcore\CsharpAdvance\bin\Debug\CsharpAdvance.exe.config
+C:\Core\netcore\CsharpAdvance\bin\Debug\CsharpAdvance.exe
+C:\Core\netcore\CsharpAdvance\bin\Debug\CsharpAdvance.pdb
+C:\Core\netcore\CsharpAdvance\obj\Debug\CsharpAdvance.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\obj\Debug\CsharpAdvance.exe
+C:\Core\netcore\CsharpAdvance\obj\Debug\CsharpAdvance.pdb
