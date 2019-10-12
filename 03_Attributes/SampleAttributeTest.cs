@@ -10,6 +10,7 @@ namespace CsharpAdvance._03_Attributes
     public class SampleAttributeTest
     {
         public int Data { get; set; }
+        public int Age;
         public void Method1() { }
     }
 }
