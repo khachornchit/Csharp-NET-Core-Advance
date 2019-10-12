@@ -1,6 +1,7 @@
 ﻿using CsharpAdvance._02_Generics;
 using CsharpAdvance._03_Attributes;
-using CsharpAdvance._07_Events;
+using CsharpAdvance._08_ExtensionMethods;
+using CsharpAdvance._09_LINQ;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,14 @@ namespace CsharpAdvance
     {
         static void Main(string[] args)
         {
-            // 08 - Extension Methods
+            // 09 - LINQ
+            //LinqProcessing.SampleLinq();
+            LinqProcessing.CustomerProcessing();
 
+            // 08 - Extension Methods
+            //var p1 = new Person { Name = "John", Age = 24 };
+            //var p2 = new Person { Name = "Lisa", Age = 19 };
+            //p1.SayHello(p2);
 
             // 07 - Events
             //ClockTower tower = new ClockTower();
