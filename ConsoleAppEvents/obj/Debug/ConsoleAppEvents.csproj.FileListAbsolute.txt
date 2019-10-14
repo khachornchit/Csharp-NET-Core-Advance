@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.exe.config
+C:\Core\netcore\CsharpAdvance\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.exe
+C:\Core\netcore\CsharpAdvance\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.pdb
+C:\Core\netcore\CsharpAdvance\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.exe
+C:\Core\netcore\CsharpAdvance\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.pdb

@@ -43,28 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="02_Generics\Result.cs" />
-    <Compile Include="02_Generics\ResultDisplay.cs" />
-    <Compile Include="03_Attributes\SampleAttribute.cs" />
-    <Compile Include="03_Attributes\SampleAttributeTest.cs" />
-    <Compile Include="04_Reflection\Person.cs" />
-    <Compile Include="07_Events\ClockTower.cs" />
-    <Compile Include="07_Events\Person.cs" />
-    <Compile Include="08_ExtensionMethods\Extensions.cs" />
-    <Compile Include="08_ExtensionMethods\Person.cs" />
-    <Compile Include="09_LINQ\Customer.cs" />
-    <Compile Include="09_LINQ\LinqProcessing.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="README.md" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="01_ImplicitTyping\" />
-    <Folder Include="05_Delegates\" />
-    <Folder Include="06_Anonymous Methods and Lambda Expressions\" />
-    <Folder Include="14_Async Await\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
