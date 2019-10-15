@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\Generics\bin\Debug\Generics.exe.config
+C:\Core\netcore\CsharpAdvance\Generics\bin\Debug\Generics.exe
+C:\Core\netcore\CsharpAdvance\Generics\bin\Debug\Generics.pdb
+C:\Core\netcore\CsharpAdvance\Generics\obj\Debug\Generics.exe
+C:\Core\netcore\CsharpAdvance\Generics\obj\Debug\Generics.pdb

@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\Delegates.exe.config
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\Delegates.exe
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\Delegates.pdb
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\Delegates.exe
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\Delegates.pdb

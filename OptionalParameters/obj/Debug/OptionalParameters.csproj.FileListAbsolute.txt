@@ -1,0 +1,6 @@
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\OptionalParameters.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\OptionalParameters.pdb

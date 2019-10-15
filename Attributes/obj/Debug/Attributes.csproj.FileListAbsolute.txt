@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\Attributes.exe.config
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\Attributes.exe
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\Attributes.pdb
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\Attributes.exe
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\Attributes.pdb

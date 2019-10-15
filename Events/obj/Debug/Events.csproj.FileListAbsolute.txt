@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\Events.exe.config
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\Events.exe
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\Events.pdb
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\Events.exe
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\Events.pdb

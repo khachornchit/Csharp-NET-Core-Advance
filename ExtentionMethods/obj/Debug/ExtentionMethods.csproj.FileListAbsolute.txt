@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\ExtentionMethods.pdb

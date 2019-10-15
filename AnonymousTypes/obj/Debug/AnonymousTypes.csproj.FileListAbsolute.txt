@@ -1,0 +1,5 @@
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

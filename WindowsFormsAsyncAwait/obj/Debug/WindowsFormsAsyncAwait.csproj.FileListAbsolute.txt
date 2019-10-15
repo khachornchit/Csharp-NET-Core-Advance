@@ -1,9 +1,0 @@
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.exe.config
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.exe
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.pdb
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.csprojAssemblyReference.cache
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.Form1.resources
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.Properties.Resources.resources
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.csproj.GenerateResource.cache
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.exe
-C:\Core\netcore\CsharpAdvance\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.pdb

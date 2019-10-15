@@ -1,0 +1,6 @@
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\bin\Debug\ConsoleAppReflection.exe.config
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\bin\Debug\ConsoleAppReflection.exe
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\bin\Debug\ConsoleAppReflection.pdb
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\obj\Debug\ConsoleAppReflection.exe
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\obj\Debug\ConsoleAppReflection.pdb
+C:\Core\netcore\CsharpAdvance\ConsoleAppReflection\obj\Debug\ConsoleAppReflection.csprojAssemblyReference.cache
