@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleAppAttributes
+﻿namespace Attributes
 {
     [Sample(Name = "John", Version = 5)]
     public class SampleAttributeTest

@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.exe
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.deps.json
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.dll
+C:\Core\netcore\CsharpAdvance\Attributes\bin\Debug\netcoreapp3.0\Attributes.pdb
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\netcoreapp3.0\Attributes.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\netcoreapp3.0\Attributes.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\netcoreapp3.0\Attributes.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\netcoreapp3.0\Attributes.dll
+C:\Core\netcore\CsharpAdvance\Attributes\obj\Debug\netcoreapp3.0\Attributes.pdb

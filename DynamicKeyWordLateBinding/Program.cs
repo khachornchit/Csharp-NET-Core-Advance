@@ -1,32 +1,29 @@
 ﻿using IronPython.Hosting;
 using System;
-using System.Collections.Generic;
 using System.Dynamic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleAppDynamicKeyWordLateBinding
+namespace DynamicKeyWordLateBinding
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //dynamic test = "string";
-            //test = 12345;
-            //Console.WriteLine(test);
+            // General dynamic
+            dynamic testDynamicType = "string";
+            testDynamicType = 12345;
+            Console.WriteLine("Test dynamic variable : {0}",testDynamicType);
 
             //Python
-            //var pythonRuntime = Python.CreateRuntime();
-            //dynamic python = pythonRuntime.UseFile("Test.py");
-            //python.Greeting();
+            var pythonRuntime = Python.CreateRuntime();
+            dynamic python = pythonRuntime.UseFile("IronPython.py");
+            python.Greeting();
 
-            dynamic test = new ExpandoObject();
-            test.Name = "John";
-            test.Age = 24;
+            dynamic testExpandObject = new ExpandoObject();
+            testExpandObject.Name = "John";
+            testExpandObject.Age = 24;
 
-            Console.WriteLine(test.Name);
-            Console.WriteLine(test.Age);
+            Console.WriteLine("Test expand object : {0}", testExpandObject.Name);
+            Console.WriteLine("Test expand object : {0}", testExpandObject.Age);
         }
     }
 }

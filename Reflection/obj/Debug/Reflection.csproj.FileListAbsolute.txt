@@ -1,5 +1,0 @@
-C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\Reflection.exe.config
-C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\Reflection.exe
-C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\Reflection.pdb
-C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\Reflection.exe
-C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\Reflection.pdb

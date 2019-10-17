@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.exe
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.deps.json
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.dll
+C:\Core\netcore\CsharpAdvance\Events\bin\Debug\netcoreapp3.0\Events.pdb
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\netcoreapp3.0\Events.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\netcoreapp3.0\Events.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\netcoreapp3.0\Events.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\netcoreapp3.0\Events.dll
+C:\Core\netcore\CsharpAdvance\Events\obj\Debug\netcoreapp3.0\Events.pdb

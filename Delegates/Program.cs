@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleAppDelegates
+namespace Delegates
 {
     delegate void MyDelegate(string message);
     delegate void Operation(int num);

@@ -1,6 +1,0 @@
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe.config
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.pdb
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.csprojAssemblyReference.cache
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.exe
-C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.pdb

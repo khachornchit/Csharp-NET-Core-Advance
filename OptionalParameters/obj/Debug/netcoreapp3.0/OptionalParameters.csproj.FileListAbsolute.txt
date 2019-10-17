@@ -1,0 +1,10 @@
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.exe
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.deps.json
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.dll
+C:\Core\netcore\CsharpAdvance\OptionalParameters\bin\Debug\netcoreapp3.0\OptionalParameters.pdb
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\netcoreapp3.0\OptionalParameters.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\netcoreapp3.0\OptionalParameters.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\netcoreapp3.0\OptionalParameters.dll
+C:\Core\netcore\CsharpAdvance\OptionalParameters\obj\Debug\netcoreapp3.0\OptionalParameters.pdb

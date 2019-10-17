@@ -1,6 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\bin\Debug\ConsoleAppGenerics.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\bin\Debug\ConsoleAppGenerics.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\bin\Debug\ConsoleAppGenerics.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\obj\Debug\ConsoleAppGenerics.csprojAssemblyReference.cache
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\obj\Debug\ConsoleAppGenerics.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppGenerics\obj\Debug\ConsoleAppGenerics.pdb

@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.exe
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.deps.json
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.dll
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\bin\Debug\netcoreapp3.0\ExtentionMethods.pdb
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\netcoreapp3.0\ExtentionMethods.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\netcoreapp3.0\ExtentionMethods.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\netcoreapp3.0\ExtentionMethods.dll
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\netcoreapp3.0\ExtentionMethods.pdb
+C:\Core\netcore\CsharpAdvance\ExtentionMethods\obj\Debug\netcoreapp3.0\ExtentionMethods.csprojAssemblyReference.cache

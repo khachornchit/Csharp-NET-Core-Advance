@@ -1,6 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\bin\Debug\ConsoleAppLambdaExpression.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\bin\Debug\ConsoleAppLambdaExpression.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\bin\Debug\ConsoleAppLambdaExpression.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\obj\Debug\ConsoleAppLambdaExpression.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\obj\Debug\ConsoleAppLambdaExpression.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppLambdaExpression\obj\Debug\ConsoleAppLambdaExpression.csprojAssemblyReference.cache

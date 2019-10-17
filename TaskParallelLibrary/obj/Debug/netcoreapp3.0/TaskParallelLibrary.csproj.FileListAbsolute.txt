@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.exe
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.deps.json
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.dll
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\bin\Debug\netcoreapp3.0\TaskParallelLibrary.pdb
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\netcoreapp3.0\TaskParallelLibrary.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\netcoreapp3.0\TaskParallelLibrary.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\netcoreapp3.0\TaskParallelLibrary.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\netcoreapp3.0\TaskParallelLibrary.dll
+C:\Core\netcore\CsharpAdvance\TaskParallelLibrary\obj\Debug\netcoreapp3.0\TaskParallelLibrary.pdb

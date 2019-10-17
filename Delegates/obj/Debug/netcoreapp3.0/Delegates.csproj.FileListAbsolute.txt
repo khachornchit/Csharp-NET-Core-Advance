@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.exe
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.deps.json
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.dll
+C:\Core\netcore\CsharpAdvance\Delegates\bin\Debug\netcoreapp3.0\Delegates.pdb
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\netcoreapp3.0\Delegates.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\netcoreapp3.0\Delegates.dll
+C:\Core\netcore\CsharpAdvance\Delegates\obj\Debug\netcoreapp3.0\Delegates.pdb

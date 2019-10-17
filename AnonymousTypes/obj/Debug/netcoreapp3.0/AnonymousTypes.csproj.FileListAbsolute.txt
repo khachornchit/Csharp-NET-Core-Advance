@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.exe
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.deps.json
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.dll
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\bin\Debug\netcoreapp3.0\AnonymousTypes.pdb
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\netcoreapp3.0\AnonymousTypes.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\netcoreapp3.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\netcoreapp3.0\AnonymousTypes.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\netcoreapp3.0\AnonymousTypes.dll
+C:\Core\netcore\CsharpAdvance\AnonymousTypes\obj\Debug\netcoreapp3.0\AnonymousTypes.pdb

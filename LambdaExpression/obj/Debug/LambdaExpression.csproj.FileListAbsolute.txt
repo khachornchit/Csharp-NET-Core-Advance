@@ -1,5 +1,0 @@
-C:\Core\netcore\CsharpAdvance\LambdaExpression\bin\Debug\LambdaExpression.exe.config
-C:\Core\netcore\CsharpAdvance\LambdaExpression\bin\Debug\LambdaExpression.exe
-C:\Core\netcore\CsharpAdvance\LambdaExpression\bin\Debug\LambdaExpression.pdb
-C:\Core\netcore\CsharpAdvance\LambdaExpression\obj\Debug\LambdaExpression.exe
-C:\Core\netcore\CsharpAdvance\LambdaExpression\obj\Debug\LambdaExpression.pdb

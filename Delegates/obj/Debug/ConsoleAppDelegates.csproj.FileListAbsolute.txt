@@ -1,6 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.csprojAssemblyReference.cache
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.pdb

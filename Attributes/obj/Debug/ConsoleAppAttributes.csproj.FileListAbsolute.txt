@@ -1,5 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppAttributes\bin\Debug\ConsoleAppAttributes.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppAttributes\bin\Debug\ConsoleAppAttributes.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppAttributes\bin\Debug\ConsoleAppAttributes.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppAttributes\obj\Debug\ConsoleAppAttributes.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppAttributes\obj\Debug\ConsoleAppAttributes.pdb

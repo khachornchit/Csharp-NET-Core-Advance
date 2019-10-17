@@ -1,5 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppExtentionMethods\bin\Debug\ConsoleAppExtentionMethods.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppExtentionMethods\bin\Debug\ConsoleAppExtentionMethods.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppExtentionMethods\bin\Debug\ConsoleAppExtentionMethods.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppExtentionMethods\obj\Debug\ConsoleAppExtentionMethods.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppExtentionMethods\obj\Debug\ConsoleAppExtentionMethods.pdb

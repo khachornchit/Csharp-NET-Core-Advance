@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleAppAnonymousTypes
+namespace AnonymousTypes
 {
     class Program
     {
@@ -21,7 +19,8 @@ namespace ConsoleAppAnonymousTypes
 
             var results = from p in customers
                           where p.LastName == "Williams"
-                          select new {
+                          select new
+                          {
                               FullName = string.Format("{0} {1}", p.FirstName, p.LastName)
                           };
 

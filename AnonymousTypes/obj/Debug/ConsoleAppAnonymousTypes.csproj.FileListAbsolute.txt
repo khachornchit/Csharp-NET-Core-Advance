@@ -1,6 +1,0 @@
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\bin\Debug\ConsoleAppAnonymousTypes.exe.config
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\bin\Debug\ConsoleAppAnonymousTypes.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\bin\Debug\ConsoleAppAnonymousTypes.pdb
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\obj\Debug\ConsoleAppAnonymousTypes.csprojAssemblyReference.cache
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\obj\Debug\ConsoleAppAnonymousTypes.exe
-C:\Core\netcore\CsharpAdvance\ConsoleAppAnonymousTypes\obj\Debug\ConsoleAppAnonymousTypes.pdb

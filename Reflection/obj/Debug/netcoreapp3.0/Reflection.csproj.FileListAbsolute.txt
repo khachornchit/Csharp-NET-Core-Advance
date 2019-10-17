@@ -1,0 +1,11 @@
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.exe
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.deps.json
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.runtimeconfig.json
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.runtimeconfig.dev.json
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.dll
+C:\Core\netcore\CsharpAdvance\Reflection\bin\Debug\netcoreapp3.0\Reflection.pdb
+C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\netcoreapp3.0\Reflection.csprojAssemblyReference.cache
+C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\netcoreapp3.0\Reflection.AssemblyInfoInputs.cache
+C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\netcoreapp3.0\Reflection.AssemblyInfo.cs
+C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\netcoreapp3.0\Reflection.dll
+C:\Core\netcore\CsharpAdvance\Reflection\obj\Debug\netcoreapp3.0\Reflection.pdb

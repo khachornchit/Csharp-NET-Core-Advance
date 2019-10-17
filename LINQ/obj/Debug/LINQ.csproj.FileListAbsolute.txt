@@ -1,5 +1,0 @@
-C:\Core\netcore\CsharpAdvance\LINQ\bin\Debug\LINQ.exe.config
-C:\Core\netcore\CsharpAdvance\LINQ\bin\Debug\LINQ.exe
-C:\Core\netcore\CsharpAdvance\LINQ\bin\Debug\LINQ.pdb
-C:\Core\netcore\CsharpAdvance\LINQ\obj\Debug\LINQ.exe
-C:\Core\netcore\CsharpAdvance\LINQ\obj\Debug\LINQ.pdb

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OptionalParameters
 {
@@ -41,7 +37,8 @@ namespace OptionalParameters
                         Console.WriteLine("Hello {0}", firstName);
                     }
                 }
-            }else
+            }
+            else
             {
                 if (lastName != null)
                 {
